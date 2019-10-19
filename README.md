@@ -6,18 +6,18 @@
 * [Built With](#Built_With)
 
 ## Instructions
- -Download or Clone the Repository.
+ * Download or Clone the Repository.
 
- -Open index.html in your browser.
+ * Open index.html in your browser.
 
 
 ## Built With
 
--HTML
+* HTML
 
--CSS
+* CSS
 
--JS
+* JS
 
 
 
